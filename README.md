@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Handlebars](https://handlebarsjs.com/)
 
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/avatar.svg" />
+    <img alt="Happy" title="Happy" src=".github/avatar.png" />
 </h1>
 
 ## 💻 Projeto
