@@ -39,7 +39,7 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="public/icons/avatar.svg" />
+    <img alt="Happy" title="Happy" src=".github/avatar.svg" />
 </h1>
 
 ## :memo: Licença
